@@ -1,6 +1,6 @@
 # ant
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application for [Langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
 ## Development Mode
 
