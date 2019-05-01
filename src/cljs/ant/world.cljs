@@ -4,9 +4,9 @@
   {:width width
    :height height
    :grid (into [] (repeat height (into [] (repeat width 0))))
-   :ant-pos [(quot width 2) (quot height 2)] ;pos is [x, y]
+   :ant-pos [(quot width 2) (quot height 2)]
    :ant-dir :up
-   :stopped? false}) ;dir is [dx, dy] for moving
+   :stopped? false})
 
 (defn within-bounds? [[row col] width height]
   (and (>= row 0) (>= col 0)
