@@ -1,6 +1,6 @@
 # ant
 
-A [re-frame](https://github.com/Day8/re-frame) application for [Langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant).
+A [re-frame](https://github.com/Day8/re-frame) application for [Langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant). Iteration is very slow atm.
 
 ## Development Mode
 
